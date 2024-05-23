@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/instance_manager.dart';
 import 'package:get/state_manager.dart';
 import 'package:iconsax_flutter/iconsax_flutter.dart';
-import 'package:harita/pages/settings.dart';
-import 'package:harita/pages/home_page.dart';
+import 'package:DumendenNav/pages/settings.dart';
+import 'package:DumendenNav/pages/home_page.dart';
 
 class NavigationMenu extends StatelessWidget {
   const NavigationMenu({super.key});
